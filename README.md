@@ -30,14 +30,14 @@ I am a passionate B.Tech AIML student at Galgotias University, driven by a curio
 -->
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Secured 3rd position in a CTF competition organized by IEEE-IPEC.
 
-
+<!--
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
-
+-->
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <!--
