@@ -15,7 +15,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
-[![Top Langs](https://github-stats-one-steel.vercel.app/api/top-langs/?username=abhinux)](https://github.com/Abhinux/github-stats)
+[![Top Langs](https://github-stats-one-steel.vercel.app/api/top-langs/?username=abhinux&theme=vue-dark)](https://github.com/Abhinux/github-stats)
 
 ## 🌱 Currently Exploring
 
