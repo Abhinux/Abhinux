@@ -2,7 +2,7 @@
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![Abhinux's Stats](https://abhinux.vercel.app/api?username=abhinux&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Abhinux's Stats](https://github-stats-one-steel.vercel.app/api?username=abhinux&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
-[![Top Langs](https://abhinux.vercel.app/api/top-langs/?username=abhinux)](https://github.com/Abhinux/github-stats)
+[![Top Langs](https://github-stats-one-steel.vercel.app/api/top-langs/?username=abhinux)](https://github.com/Abhinux/github-stats)
 
 ## 🌱 Currently Exploring
 
